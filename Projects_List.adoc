@@ -1,0 +1,32 @@
+= IoT Projects List
+
+* IoT Patient Health Monitoring Project
+* IoT Heart Attack Detection & Heart Rate Monitor
+* IoT Based Toll Booth Manager System
+* IoT Based Home Automation
+* IoT Based Office Automation
+* IoT Based Industry Automation
+* IoT Weather Reporting System
+* IoT Based Fire Department Alerting System
+* IoT Solar Power Monitoring System
+* IoT Streetlight Controller System
+* IoT Traffic Signal Monitoring & Controller System
+* IoT Underground Cable Fault Detector Project
+* IoT Based ICU Patient Monitoring System
+* Biometric Attendance System Over IoT
+* IoT Gas Pipe Leakage Detector
+* IoT Irrigation Monitoring & Controller System
+* IoT Electronic Door Opener
+* IoT Home Automation Using Raspberry Pi
+* IoT Alcohol & Health Monitoring System
+* IoT Liquid Level Monitoring System
+* IoT Garbage Monitoring System
+* IoT Smart Parking Using RFID
+* IoT Based Smart Energy Meter Monitoring with Theft Detection
+* IoT Car Parking System
+* Smart Dustbin With IoT Notifications
+* IoT Asset Tracking System
+* IoT Based Three Phase Power Failure Monitoring with SMS Alerts
+* IoT Based Intelligent Gas Leakage Detector Using Arduino
+* IoT Based Smart Agriculture Monitoring System Project
+* IoT Based Automatic Vehicle Accident Detection and Rescue System
