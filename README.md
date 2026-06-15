@@ -34,26 +34,33 @@
 
 ## IoT Projects List
 
-* IoT Patient Health Monitoring Project
-* IoT Heart Attack Detection & Heart Rate Monitor
-* IoT Based Toll Booth Manager System
 * IoT Based Home Automation
 * IoT Based Office Automation
 * IoT Based Industry Automation
-* IoT Weather Reporting System
-* IoT Based Fire Department Alerting System
-* IoT Solar Power Monitoring System
 * IoT Streetlight Controller System
 * IoT Traffic Signal Monitoring & Controller System
-* IoT Underground Cable Fault Detector Project
-* IoT Based ICU Patient Monitoring System
-* Biometric Attendance System Over IoT
 * IoT Gas Pipe Leakage Detector
-* IoT Irrigation Monitoring & Controller System
-* IoT Electronic Door Opener
 * IoT Home Automation Using Raspberry Pi
+
+
+* IoT Electronic Door Opener
+* IoT Patient Health Monitoring Project
+* IoT Heart Attack Detection & Heart Rate Monitor
+* IoT Based Fire Department Alerting System
+* IoT Based ICU Patient Monitoring System
 * IoT Alcohol & Health Monitoring System
 * IoT Liquid Level Monitoring System
+
+
+* IoT Based Smart Agriculture Monitoring System Project
+* IoT Based Toll Booth Manager System
+* IoT Weather Reporting System
+* IoT Irrigation Monitoring & Controller System
+* IoT Solar Power Monitoring System
+* IoT Underground Cable Fault Detector Project
+
+
+* Biometric Attendance System Over IoT
 * IoT Garbage Monitoring System
 * IoT Smart Parking Using RFID
 * IoT Based Smart Energy Meter Monitoring with Theft Detection
@@ -62,7 +69,6 @@
 * IoT Asset Tracking System
 * IoT Based Three Phase Power Failure Monitoring with SMS Alerts
 * IoT Based Intelligent Gas Leakage Detector Using Arduino
-* IoT Based Smart Agriculture Monitoring System Project
 * IoT Based Automatic Vehicle Accident Detection and Rescue System
 
 ## Raspberry Pi Projects
@@ -151,3 +157,72 @@
 * Multiple Load Controller For Industry Using ARM Cortex
 * Landmine Detection Robotic Vehicle With GPS Positioning Using ARM
 * ARM Based Liquid Level Detection & Flow Control
+
+## MERN Projects
+* E-Commerce Platform
+* Job Portal System
+* Learning Management System (LMS)
+* Online Examination System
+* Event Management System
+* Hotel Booking System
+* Food Delivery Application
+* Social Media Platform
+* Video Streaming Platform
+* Online Auction System
+* Digital Library Management System
+* Employee Management System
+* Customer Relationship Management (CRM)
+* Inventory Management System
+* Project Management Tool
+
+## WEB Projects
+* Online Banking System
+* Travel &amp; Tourism Booking Portal
+* Real Estate Management Platform
+* Healthcare Management System
+* Fitness Tracking Application
+* Online Voting System
+* Vehicle Rental Management System
+* Courier Tracking System
+* Freelancer Marketplace
+* Multi-Vendor Marketplace
+* Help Desk Ticketing System
+* Expense Management System
+* Restaurant Management System
+* Online Quiz Platform
+* Recruitment &amp; Applicant Tracking System
+
+## JAVA Projects
+* Intelligent Railway Reservation and Ticket Booking System
+* Airline Passenger Reservation and Flight Management System
+* Smart Traffic Signal Monitoring and Control System
+* Employee Payroll and Salary Processing System
+* College Admission and Student Enrollment Management System
+* Network Packet Routing and Traffic Analysis System
+* CPU Process Scheduling and Performance Monitoring System
+* Memory Allocation and Resource Management System
+* Disk Scheduling and Storage Optimization System
+* Deadlock Detection and Resource Allocation Management System
+* Operating System Process Management System
+* Computer Resource Scheduling and Monitoring System
+* Data Communication and Packet Transmission System
+* Network Load Balancing Management System
+* System Performance Analysis Dashboard
+
+## PYTHON Projects
+* Smart Agriculture Crop Monitoring System
+* Weather Forecast and Climate Analysis Portal
+* Blood Bank and Donor Management System
+* Disaster Alert and Emergency Response System
+* NGO Donation and Volunteer Coordination Platform
+* Waste Collection and Recycling Management System
+* Water Supply Monitoring and Distribution System
+* Electricity Consumption Monitoring System
+* Smart Parking Reservation System
+* Document Verification and Certificate Validation System
+* Legal Case and Advocate Management Portal
+* Supply Chain Visibility and Tracking Platform
+* Manufacturing Production Monitoring System
+* Quality Assurance and Defect Tracking System
+* Asset Tracking and Maintenance Management System
+* Franchise Operations Management System
