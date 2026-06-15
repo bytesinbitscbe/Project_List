@@ -151,3 +151,72 @@
 * Multiple Load Controller For Industry Using ARM Cortex
 * Landmine Detection Robotic Vehicle With GPS Positioning Using ARM
 * ARM Based Liquid Level Detection & Flow Control
+
+## MERN Projects
+* E-Commerce Platform
+* Job Portal System
+* Learning Management System (LMS)
+* Online Examination System
+* Event Management System
+* Hotel Booking System
+* Food Delivery Application
+* Social Media Platform
+* Video Streaming Platform
+* Online Auction System
+* Digital Library Management System
+* Employee Management System
+* Customer Relationship Management (CRM)
+* Inventory Management System
+* Project Management Tool
+
+## WEB Projects
+* Online Banking System
+* Travel &amp; Tourism Booking Portal
+* Real Estate Management Platform
+* Healthcare Management System
+* Fitness Tracking Application
+* Online Voting System
+* Vehicle Rental Management System
+* Courier Tracking System
+* Freelancer Marketplace
+* Multi-Vendor Marketplace
+* Help Desk Ticketing System
+* Expense Management System
+* Restaurant Management System
+* Online Quiz Platform
+* Recruitment &amp; Applicant Tracking System
+
+## JAVA Projects
+* Intelligent Railway Reservation and Ticket Booking System
+* Airline Passenger Reservation and Flight Management System
+* Smart Traffic Signal Monitoring and Control System
+* Employee Payroll and Salary Processing System
+* College Admission and Student Enrollment Management System
+* Network Packet Routing and Traffic Analysis System
+* CPU Process Scheduling and Performance Monitoring System
+* Memory Allocation and Resource Management System
+* Disk Scheduling and Storage Optimization System
+* Deadlock Detection and Resource Allocation Management System
+* Operating System Process Management System
+* Computer Resource Scheduling and Monitoring System
+* Data Communication and Packet Transmission System
+* Network Load Balancing Management System
+* System Performance Analysis Dashboard
+
+## PYTHON Projects
+* Smart Agriculture Crop Monitoring System
+* Weather Forecast and Climate Analysis Portal
+* Blood Bank and Donor Management System
+* Disaster Alert and Emergency Response System
+* NGO Donation and Volunteer Coordination Platform
+* Waste Collection and Recycling Management System
+* Water Supply Monitoring and Distribution System
+* Electricity Consumption Monitoring System
+* Smart Parking Reservation System
+* Document Verification and Certificate Validation System
+* Legal Case and Advocate Management Portal
+* Supply Chain Visibility and Tracking Platform
+* Manufacturing Production Monitoring System
+* Quality Assurance and Defect Tracking System
+* Asset Tracking and Maintenance Management System
+* Franchise Operations Management System
