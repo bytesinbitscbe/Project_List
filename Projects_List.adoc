@@ -34,26 +34,33 @@
 
 == IoT Projects List
 
-* IoT Patient Health Monitoring Project
-* IoT Heart Attack Detection & Heart Rate Monitor
-* IoT Based Toll Booth Manager System
 * IoT Based Home Automation
 * IoT Based Office Automation
 * IoT Based Industry Automation
-* IoT Weather Reporting System
-* IoT Based Fire Department Alerting System
-* IoT Solar Power Monitoring System
 * IoT Streetlight Controller System
 * IoT Traffic Signal Monitoring & Controller System
-* IoT Underground Cable Fault Detector Project
-* IoT Based ICU Patient Monitoring System
-* Biometric Attendance System Over IoT
 * IoT Gas Pipe Leakage Detector
-* IoT Irrigation Monitoring & Controller System
-* IoT Electronic Door Opener
 * IoT Home Automation Using Raspberry Pi
+
+
+* IoT Electronic Door Opener
+* IoT Patient Health Monitoring Project
+* IoT Heart Attack Detection & Heart Rate Monitor
+* IoT Based Fire Department Alerting System
+* IoT Based ICU Patient Monitoring System
 * IoT Alcohol & Health Monitoring System
 * IoT Liquid Level Monitoring System
+
+
+* IoT Based Smart Agriculture Monitoring System Project
+* IoT Based Toll Booth Manager System
+* IoT Weather Reporting System
+* IoT Irrigation Monitoring & Controller System
+* IoT Solar Power Monitoring System
+* IoT Underground Cable Fault Detector Project
+
+
+* Biometric Attendance System Over IoT
 * IoT Garbage Monitoring System
 * IoT Smart Parking Using RFID
 * IoT Based Smart Energy Meter Monitoring with Theft Detection
@@ -62,7 +69,6 @@
 * IoT Asset Tracking System
 * IoT Based Three Phase Power Failure Monitoring with SMS Alerts
 * IoT Based Intelligent Gas Leakage Detector Using Arduino
-* IoT Based Smart Agriculture Monitoring System Project
 * IoT Based Automatic Vehicle Accident Detection and Rescue System
 
 == Raspberry Pi Projects
